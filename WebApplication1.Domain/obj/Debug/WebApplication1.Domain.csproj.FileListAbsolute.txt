@@ -1,0 +1,2 @@
+D:\Anul-2\TWeb\WebApplication1.Domain\obj\Debug\WebApplication1.Domain.csproj.AssemblyReference.cache
+D:\Anul-2\TWeb\WebApplication1.Domain\obj\Debug\WebApplication1.Domain.csproj.CoreCompileInputs.cache

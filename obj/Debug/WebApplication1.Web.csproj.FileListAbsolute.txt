@@ -1,0 +1,4 @@
+D:\Anul-2\TWeb\obj\Debug\WebApplication1.Web.csproj.AssemblyReference.cache
+D:\Anul-2\TWeb\obj\Debug\WebApplication1.Web.csproj.CoreCompileInputs.cache
+D:\Anul-2\TWeb\obj\Debug\WebApplication1.dll
+D:\Anul-2\TWeb\obj\Debug\WebApplication1.pdb

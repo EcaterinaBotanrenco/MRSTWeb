@@ -121,9 +121,11 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\userLogin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -321,10 +323,11 @@
     <Content Include="Views\Home\service.cshtml" />
     <Content Include="Views\Home\Testimonial.cshtml" />
     <Content Include="Views\_Layout.cshtml" />
+    <Content Include="Views\Shared\_Header.cshtml" />
+    <Content Include="Views\Shared\_Footer.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
@@ -352,6 +355,16 @@
     <Content Include="Scripts\bootstrap.bundle.js.map" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="WebApplication1.BusinessLogic\WebApplication1.BusinessLogic.csproj">
+      <Project>{4c53a09a-39eb-4914-a837-db87307c6e3c}</Project>
+      <Name>WebApplication1.BusinessLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="WebApplication1.Domain\WebApplication1.Domain.csproj">
+      <Project>{4d41fe9a-2e3c-4fc1-b671-4ed4882a71f5}</Project>
+      <Name>WebApplication1.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

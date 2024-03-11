@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Anul-2\\TWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\anul-2\\tweb\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\anul-2\\tweb\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\anul-2\\tweb\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\anul-2\\tweb\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D41FE9A-2E3C-4FC1-B671-4ED4882A71F5}|WebApplication1.Domain\\WebApplication1.Domain.csproj|d:\\anul-2\\tweb\\webapplication1.domain\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D41FE9A-2E3C-4FC1-B671-4ED4882A71F5}|WebApplication1.Domain\\WebApplication1.Domain.csproj|solutionrelative:webapplication1.domain\\controllers\\productdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\anul-2\\tweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|d:\\anul-2\\tweb\\webapplication1.businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|d:\\anul-2\\tweb\\webapplication1.businesslogic\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\productbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|d:\\anul-2\\tweb\\webapplication1.businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|d:\\anul-2\\tweb\\webapplication1.businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|d:\\anul-2\\tweb\\webapplication1.businesslogic\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|d:\\anul-2\\tweb\\webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|d:\\anul-2\\tweb\\webapplication1.businesslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\Anul-2\\TWeb\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwEsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T16:00:02.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Header.cshtml",
+              "ToolTip": "D:\\Anul-2\\TWeb\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAuwDoAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T15:59:51.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\Views\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\_Layout.cshtml",
+              "ToolTip": "D:\\Anul-2\\TWeb\\Views\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\_Layout.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T15:58:35.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:57:35.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:54:57.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDetailController.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\WebApplication1.Domain\\Controllers\\ProductDetailController.cs",
+              "RelativeDocumentMoniker": "WebApplication1.Domain\\Controllers\\ProductDetailController.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\WebApplication1.Domain\\Controllers\\ProductDetailController.cs",
+              "RelativeToolTip": "WebApplication1.Domain\\Controllers\\ProductDetailController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:32.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionBL.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\SessionBL.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\SessionBL.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\SessionBL.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\SessionBL.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:28.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductBL.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\ProductBL.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\ProductBL.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\ProductBL.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\ProductBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BussinesLogic.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\BussinesLogic.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\BussinesLogic.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\BussinesLogic.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\BussinesLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:24.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISession.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\Interfaces\\ISession.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Interfaces\\ISession.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\Interfaces\\ISession.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Interfaces\\ISession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:22.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Interfaces\\IProduct.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Interfaces\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:20.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:16.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminApi.cs",
+              "DocumentMoniker": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\Core\\AdminApi.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Core\\AdminApi.cs",
+              "ToolTip": "D:\\Anul-2\\TWeb\\WebApplication1.BusinessLogic\\Core\\AdminApi.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Core\\AdminApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:12.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

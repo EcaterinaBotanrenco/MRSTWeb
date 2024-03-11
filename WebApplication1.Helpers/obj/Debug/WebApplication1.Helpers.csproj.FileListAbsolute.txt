@@ -1,0 +1,6 @@
+D:\Anul-2\TWeb\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll
+D:\Anul-2\TWeb\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.pdb
+D:\Anul-2\TWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.AssemblyReference.cache
+D:\Anul-2\TWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+D:\Anul-2\TWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.dll
+D:\Anul-2\TWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.pdb

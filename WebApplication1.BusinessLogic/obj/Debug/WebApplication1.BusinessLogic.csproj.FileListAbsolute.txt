@@ -1,0 +1,2 @@
+D:\Anul-2\TWeb\WebApplication1.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.csproj.AssemblyReference.cache
+D:\Anul-2\TWeb\WebApplication1.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.csproj.CoreCompileInputs.cache
