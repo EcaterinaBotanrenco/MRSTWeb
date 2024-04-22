@@ -13,9 +13,9 @@ namespace WebApplication1.BusinessLogic
         {
             return new SessionBL();
         }
-        public IProduct GetProductBL()
+       /* public IProduct GetProductBL()
         {
             return new ProductBL();
-        }
+        }*/
     }
 }

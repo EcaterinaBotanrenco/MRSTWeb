@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WebApplication1.Domain.Entities.Product
 {
-    public class ProductDetail
+   /* public class ProductDetail
     {
         public int Id { get; set; }
         public string Name { get; set;}
@@ -22,5 +22,5 @@ namespace WebApplication1.Domain.Entities.Product
         public string Topic { get; set; }
         public string Time { get; set; }
         public bool Status { get; set; }
-    }
+    }*/
 }

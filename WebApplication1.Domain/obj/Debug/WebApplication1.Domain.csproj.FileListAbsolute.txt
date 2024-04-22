@@ -1,2 +1,30 @@
 D:\Anul-2\TWeb\WebApplication1.Domain\obj\Debug\WebApplication1.Domain.csproj.AssemblyReference.cache
 D:\Anul-2\TWeb\WebApplication1.Domain\obj\Debug\WebApplication1.Domain.csproj.CoreCompileInputs.cache
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\obj\Debug\WebApplication1.Domain.csproj.AssemblyReference.cache
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\obj\Debug\WebApplication1.Domain.csproj.CoreCompileInputs.cache
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\WebApplication1.Domain.dll.config
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\WebApplication1.Domain.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\WebApplication1.Domain.pdb
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\EntityFramework.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.Helpers.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.Mvc.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.Razor.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.WebPages.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\WebApplication1.Helpers.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\WebApplication1.Helpers.pdb
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\WebApplication1.Helpers.dll.config
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\EntityFramework.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.Helpers.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.Mvc.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.Razor.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.WebPages.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\obj\Debug\WebAppli.8A9F0644.Up2Date
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\obj\Debug\WebApplication1.Domain.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Domain\obj\Debug\WebApplication1.Domain.pdb

@@ -1,2 +1,20 @@
 D:\Anul-2\TWeb\WebApplication1.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.csproj.AssemblyReference.cache
 D:\Anul-2\TWeb\WebApplication1.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.csproj.AssemblyReference.cache
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.BusinessLogic.dll.config
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.BusinessLogic.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.BusinessLogic.pdb
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\EntityFramework.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.Domain.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.Helpers.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.Domain.pdb
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.Domain.dll.config
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.Helpers.pdb
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\WebApplication1.Helpers.dll.config
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\EntityFramework.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\obj\Debug\WebAppli.D00FBA1F.Up2Date
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.dll
+D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.BusinessLogic\obj\Debug\WebApplication1.BusinessLogic.pdb

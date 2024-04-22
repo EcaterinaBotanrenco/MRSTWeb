@@ -9,10 +9,10 @@ using WebApplication1.Domain.Entities.User.Global;
 
 namespace WebApplication1.BusinessLogic.Interfaces
 {
-     public interface  ISession
+    public interface ISession
     {
-     ActionStatus UserLogin(ULoginData data);
-        LevelStatus CheckLevel(string key);
+        ULoginResp UserLogin(ULoginData data);
+        
     }
 
 }

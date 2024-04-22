@@ -10,9 +10,9 @@
         <div class="row py-2 px-lg-5">
             <div class="col-lg-6 text-left mb-2 mb-lg-0">
                 <div class="d-inline-flex align-items-center">
-                    <small><i class="fa fa-phone-alt mr-2"></i>+012 345 6789</small>
+                    <small><i class="fa fa-phone-alt mr-2"></i>+373 68130334</small>
                     <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>info@example.com</small>
+                    <small><i class="fa fa-envelope mr-2"></i>artistry@gmail.com</small>
                 </div>
             </div>
             <div class="col-lg-6 text-right">
@@ -53,17 +53,10 @@
                     @Html.ActionLink("Services", "service", "Home", null, new { @class = "nav-item nav-link" })
                     @Html.ActionLink("Pricing", "price", "Home", null, new { @class = "nav-item nav-link" })
 
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
-                        <div class="dropdown-menu rounded-0 m-0">
-                            @Html.ActionLink("Appointment", "Appointment", "Home", null, new { @class = "dropdown-item" })
-                            @Html.ActionLink("Open Hours", "OpenHours", "Home", null, new { @class = "dropdown-item" })
-                            @Html.ActionLink("Our Team", "OurTeam", "Home", null, new { @class = "dropdown-item" })
-                            @Html.ActionLink("Testimonial", "Testimonial", "Home", null, new { @class = "dropdown-item" })
-                        </div>
-                    </div>
+
 
                     @Html.ActionLink("Contact", "contact", "Home", null, new { @class = "nav-item nav-link" })
+                    @Html.ActionLink("Login", "Index", "Login", null, new { @class = "nav-item nav-link" })
 
                 </div>
                 <a href="" class="btn btn-primary d-none d-lg-block">Book Now</a>

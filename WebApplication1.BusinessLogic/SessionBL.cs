@@ -13,13 +13,13 @@ namespace WebApplication1.BusinessLogic
 {
     public class SessionBL : UserApi, ISession
     {
-        public ActionStatus UserLogin (ULoginData  data)
+        public ULoginResp UserLogin(ULoginData data)
         {
-            return UserLogData(data);
+            return UserLoginAction(data);
         }
-        public LevelStatus CheckLevel (string key)
-        {
-            return CheckLevelLogin (key);
-        }
+        /* public LevelStatus CheckLevel (string key)
+         {
+             return CheckLevelLogin(key);
+         }*/
     }
 }
