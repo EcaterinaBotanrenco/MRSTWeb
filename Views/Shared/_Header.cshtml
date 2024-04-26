@@ -1,11 +1,5 @@
-﻿<!DOCTYPE html>
-
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
-</head>
-<body>
+﻿@using WebApplication1.Domain.Entities.Enums
+<header>
     <div class="container-fluid bg-light d-none d-lg-block">
         <div class="row py-2 px-lg-5">
             <div class="col-lg-6 text-left mb-2 mb-lg-0">
@@ -16,6 +10,16 @@
                 </div>
             </div>
             <div class="col-lg-6 text-right">
+                <small class="mr-4">
+                    @{
+                        if (ViewBag.username != null)
+                        {
+                            <i class="fa fa-user mr-1"></i>
+                            <span>@ViewBag.username</span>
+                        }
+                    }
+
+                </small>
                 <div class="d-inline-flex align-items-center">
                     <a class="text-primary px-2" href="">
                         <i class="fab fa-facebook-f"></i>
@@ -49,19 +53,24 @@
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav m-auto py-0">
                     @Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-item nav-link active" })
-                    @Html.ActionLink("About", "about", "Home", null, new { @class = "nav-item nav-link" })
-                    @Html.ActionLink("Services", "service", "Home", null, new { @class = "nav-item nav-link" })
-                    @Html.ActionLink("Pricing", "price", "Home", null, new { @class = "nav-item nav-link" })
+                    @Html.ActionLink("About", "About", "Home", null, new { @class = "nav-item nav-link" })
+                    @Html.ActionLink("Services", "Service", "Home", null, new { @class = "nav-item nav-link" })
+                    @Html.ActionLink("Pricing", "Price", "Home", null, new { @class = "nav-item nav-link" })
+                    @Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "nav-item nav-link" })
 
+                    @if ((string)HttpContext.Current.Session["LoginStatus"] == "login")
+                    {
+                        @Html.ActionLink(ViewBag.userLevel == URole.Admin ? "Appointments" : "My appointments", ViewBag.userLevel == URole.Admin ? "AdminAppointmentsList" : "AppointmentsList", "Appointment", null, new { @class = "nav-item nav-link" })
+                    }
 
-
-                    @Html.ActionLink("Contact", "contact", "Home", null, new { @class = "nav-item nav-link" })
-                    @Html.ActionLink("Login", "Index", "Login", null, new { @class = "nav-item nav-link" })
+                    @if ((string)HttpContext.Current.Session["LoginStatus"] != "login")
+                    {
+                        @Html.ActionLink("Login", "Login", "Login", null, new { @class = "nav-item nav-link" })
+                    }
 
                 </div>
                 <a href="" class="btn btn-primary d-none d-lg-block">Book Now</a>
             </div>
         </nav>
     </div>
-</body>
-</html>
+</header>

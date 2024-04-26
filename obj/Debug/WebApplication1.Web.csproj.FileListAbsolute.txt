@@ -1,78 +1,224 @@
-D:\Anul-2\TWeb\obj\Debug\WebApplication1.Web.csproj.AssemblyReference.cache
-D:\Anul-2\TWeb\obj\Debug\WebApplication1.Web.csproj.CoreCompileInputs.cache
-D:\Anul-2\TWeb\obj\Debug\WebApplication1.dll
-D:\Anul-2\TWeb\obj\Debug\WebApplication1.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\obj\Debug\WebApplication1.Web.csproj.AssemblyReference.cache
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\obj\Debug\WebApplication1.Web.csproj.CoreCompileInputs.cache
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\obj\Debug\WebApplication1.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\obj\Debug\WebApplication1.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.dll.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\csc.exe
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\csc.exe.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\csc.rsp
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\csi.exe
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\csi.exe.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\csi.rsp
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.Managed.Core.targets
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\System.Buffers.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\System.Collections.Immutable.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\System.Memory.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\System.Numerics.Vectors.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\System.Reflection.Metadata.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\vbc.exe
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\vbc.exe.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\vbc.rsp
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\VBCSCompiler.exe
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\roslyn\VBCSCompiler.exe.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\Antlr3.Runtime.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\EntityFramework.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\EntityFramework.SqlServer.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\Microsoft.Web.Infrastructure.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\Newtonsoft.Json.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.Helpers.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.Mvc.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.Optimization.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.Razor.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.WebPages.Deployment.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.WebPages.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.WebPages.Razor.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.BusinessLogic.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.Domain.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebGrease.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.Helpers.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.BusinessLogic.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.BusinessLogic.dll.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.Domain.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.Domain.dll.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\EntityFramework.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\EntityFramework.SqlServer.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\Newtonsoft.Json.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.Helpers.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.Mvc.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.Razor.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.WebPages.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.WebPages.Deployment.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.WebPages.Razor.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\System.Web.Optimization.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\Antlr3.Runtime.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.Helpers.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\bin\WebApplication1.Helpers.dll.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\obj\Debug\WebAppli.776BDAE1.Up2Date
+D:/Anul-2/TWeb/obj/Debug/WebApplication1.Web.csproj.AssemblyReference.cache
+D:/Anul-2/TWeb/obj/Debug/WebApplication1.Web.csproj.CoreCompileInputs.cache
+D:/Anul-2/TWeb/obj/Debug/WebApplication1.dll
+D:/Anul-2/TWeb/obj/Debug/WebApplication1.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/obj/Debug/WebApplication1.Web.csproj.AssemblyReference.cache
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/obj/Debug/WebApplication1.Web.csproj.CoreCompileInputs.cache
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/obj/Debug/WebApplication1.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/obj/Debug/WebApplication1.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.dll.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/csc.exe
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/csc.exe.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/csc.rsp
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/csi.exe
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/csi.exe.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/csi.rsp
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.CodeAnalysis.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.CSharp.Core.targets
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.Managed.Core.CurrentVersions.targets
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.Managed.Core.targets
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/Microsoft.VisualBasic.Core.targets
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/System.Buffers.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/System.Collections.Immutable.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/System.Memory.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/System.Numerics.Vectors.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/System.Reflection.Metadata.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/System.Text.Encoding.CodePages.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/System.Threading.Tasks.Extensions.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/vbc.exe
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/vbc.exe.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/vbc.rsp
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/VBCSCompiler.exe
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/roslyn/VBCSCompiler.exe.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/Antlr3.Runtime.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/EntityFramework.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/EntityFramework.SqlServer.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/Microsoft.Web.Infrastructure.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/Newtonsoft.Json.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.Helpers.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.Mvc.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.Optimization.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.Razor.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.WebPages.Deployment.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.WebPages.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.WebPages.Razor.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.BusinessLogic.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.Domain.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebGrease.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.Helpers.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.BusinessLogic.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.BusinessLogic.dll.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.Domain.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.Domain.dll.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/EntityFramework.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/EntityFramework.SqlServer.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/Newtonsoft.Json.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.Helpers.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.Mvc.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.Razor.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.WebPages.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.WebPages.Deployment.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.WebPages.Razor.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/System.Web.Optimization.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/Antlr3.Runtime.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.Helpers.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/bin/WebApplication1.Helpers.dll.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/obj/Debug/WebAppli.776BDAE1.Up2Date
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.pdb
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/csc.exe
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/csc.exe.config
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/csc.rsp
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/csi.exe
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/csi.exe.config
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/csi.rsp
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.Managed.Core.CurrentVersions.targets
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/System.Buffers.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/System.Collections.Immutable.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/System.Memory.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/System.Numerics.Vectors.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/System.Reflection.Metadata.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/System.Runtime.CompilerServices.Unsafe.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/vbc.exe
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/vbc.exe.config
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/vbc.rsp
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/VBCSCompiler.exe
+/Users/victor/Desktop/mvc/MRSTWeb/bin/roslyn/VBCSCompiler.exe.config
+/Users/victor/Desktop/mvc/MRSTWeb/bin/Antlr3.Runtime.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/EntityFramework.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/EntityFramework.SqlServer.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/Microsoft.Web.Infrastructure.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/Newtonsoft.Json.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.Helpers.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.Mvc.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.Optimization.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.Razor.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.WebPages.Deployment.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.WebPages.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.WebPages.Razor.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.BusinessLogic.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.Domain.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebGrease.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.Helpers.dll
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.BusinessLogic.pdb
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.BusinessLogic.dll.config
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.Domain.pdb
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.Domain.dll.config
+/Users/victor/Desktop/mvc/MRSTWeb/bin/EntityFramework.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/EntityFramework.SqlServer.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/Newtonsoft.Json.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.Helpers.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.Mvc.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.Razor.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.WebPages.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.WebPages.Deployment.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.WebPages.Razor.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/System.Web.Optimization.xml
+/Users/victor/Desktop/mvc/MRSTWeb/bin/Antlr3.Runtime.pdb
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.Helpers.pdb
+/Users/victor/Desktop/mvc/MRSTWeb/bin/WebApplication1.Helpers.dll.config
+/Users/victor/Desktop/mvc/MRSTWeb/obj/Debug/WebApplication1.Web.csproj.AssemblyReference.cache
+/Users/victor/Desktop/mvc/MRSTWeb/obj/Debug/WebApplication1.Web.csproj.CoreCompileInputs.cache
+/Users/victor/Desktop/mvc/MRSTWeb/obj/Debug/WebApplication1.Web.csproj.CopyComplete
+/Users/victor/Desktop/mvc/MRSTWeb/obj/Debug/WebApplication1.dll
+/Users/victor/Desktop/mvc/MRSTWeb/obj/Debug/WebApplication1.pdb
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.pdb
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\csc.exe
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\csc.exe.config
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\csc.rsp
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\csi.exe
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\csi.exe.config
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\csi.rsp
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\System.Buffers.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\System.Memory.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\vbc.exe
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\vbc.exe.config
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\vbc.rsp
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\37368\Desktop\MRSTWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\37368\Desktop\MRSTWeb\bin\Antlr3.Runtime.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\EntityFramework.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\Newtonsoft.Json.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.Helpers.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.Mvc.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.Optimization.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.Razor.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.WebPages.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.BusinessLogic.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.Domain.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\WebGrease.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.Helpers.dll
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.BusinessLogic.pdb
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.BusinessLogic.dll.config
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.Domain.pdb
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.Domain.dll.config
+C:\Users\37368\Desktop\MRSTWeb\bin\EntityFramework.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\Newtonsoft.Json.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.Helpers.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.Mvc.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.Razor.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.WebPages.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\System.Web.Optimization.xml
+C:\Users\37368\Desktop\MRSTWeb\bin\Antlr3.Runtime.pdb
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.Helpers.pdb
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.Helpers.dll.config
+C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.Web.csproj.AssemblyReference.cache
+C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.Web.csproj.CoreCompileInputs.cache
+C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.dll
+C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.pdb
+C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.Web.csproj.CopyComplete

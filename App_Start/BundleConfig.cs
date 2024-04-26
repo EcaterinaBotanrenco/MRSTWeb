@@ -5,10 +5,11 @@ namespace WebApplication1
 {
     public class BundleConfig
     {
-
         public static void RegisterBundles(BundleCollection bundles)
         {
             bundles.Add(new ScriptBundle("~/bundles/localScripts").Include(
+                "~/assets/js/jquery.js",
+                "~/Content/bootstrap.min.js",
                 "~/assets/lib/easing/easing.min.js",
                 "~/assets/lib/waypoints/waypoints.min.js",
                 "~/assets/lib/counterup/counterup.min.js",
@@ -22,11 +23,12 @@ namespace WebApplication1
 
             // Style bundle
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                        "~/Content/bootstrap.min.css",
-                        "~/assets/lib/animate/animate.min.css",
-                        "~/assets/lib/owlcarousel/assets/owl.carousel.min.css",
-                        "~/assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
-                        "~/assets/css/style.css"));
+                "~/Content/Site.css",
+                "~/Content/bootstrap.min.css",
+                "~/assets/lib/animate/animate.min.css",
+                "~/assets/lib/owlcarousel/assets/owl.carousel.min.css",
+                "~/assets/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+                "~/assets/css/style.min.css"));
             BundleTable.EnableOptimizations = true;
         }
     }

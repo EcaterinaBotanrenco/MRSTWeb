@@ -1,0 +1,52 @@
+﻿@model WebApplication1.Web.Models.UserRegister
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid d-none d-lg-block">
+    <div class="container-center">
+        <div class="view-header">
+            <div class="header-icon">
+                <i class="pe page-header-icon pe-7s-unlock"></i>
+            </div>
+            <div class="header-title">
+                <h3>Register</h3>
+                <small>Please enter your credentials to register.</small>
+            </div>
+        </div>
+
+        <div class="panel panel-filled">
+            <div class="panel-body">
+                @Html.ValidationSummary(true)
+                @using (Html.BeginForm("Register", "Register", FormMethod.Post, new { @id = "register-form" }))
+                {
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Username, " ", new { @class = "control-label" })
+                        @Html.TextBoxFor(model => model.Username, new { @class = "form-control", placeholder = "Username", title = " ", value = " ", name = "username", id = "username" })
+                        @Html.ValidationMessageFor(model => model.Username)
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Email, " ", new { @class = "control-label" })
+                        @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "Your Email", title = " ", value = " ", name = "email", id = "email" })
+                        @Html.ValidationMessageFor(model => model.Email)
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Password, " ", new { @class = "control-label" })
+                        @Html.TextBoxFor(model => model.Password, new { @class = "form-control", type = "password", title = " ", placeholder = "Password", value = " ", name = "pass", id = "pass" })
+                        @Html.ValidationMessageFor(model => model.Password)
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.ConfirmPassword, " ", new { @class = "control-label" })
+                        @Html.TextBoxFor(model => model.ConfirmPassword, new { @class = "form-control", type = "password", title = " ", placeholder = "Repeat your password", value = " ", name = "re_pass", id = "re_pass" })
+                        @Html.ValidationMessageFor(model => model.ConfirmPassword)
+                    </div>
+                    <div class="form-group form-button">
+                        <button type="submit" class="btn ">Register</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

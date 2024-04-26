@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WebApplication1.Domain</RootNamespace>
     <AssemblyName>WebApplication1.Domain</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <NuGetPackageImportStamp>
@@ -73,12 +73,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\ProductDetailController.cs" />
+    <Compile Include="Entities\Appointment\ADbTable.cs" />
+    <Compile Include="Entities\Appointment\AppointmentListData.cs" />
+    <Compile Include="Entities\Appointment\AppointmentListResp.cs" />
+    <Compile Include="Entities\Enums\URole.cs" />
     <Compile Include="Entities\Product\ProductDetail.cs" />
-    <Compile Include="Entities\Res\ActionStatus.cs" />
-    <Compile Include="Entities\Res\ULoginResp.cs" />
-    <Compile Include="Entities\User\Global\LevelStatus.cs" />
+    <Compile Include="Entities\User\Session.cs" />
     <Compile Include="Entities\User\UDbTable.cs" />
     <Compile Include="Entities\User\ULoginData.cs" />
+    <Compile Include="Entities\User\ULoginResp.cs" />
+    <Compile Include="Entities\User\URegisterData.cs" />
+    <Compile Include="Entities\User\URegisterResp.cs" />
+    <Compile Include="Entities\User\UserMinimal.cs" />
     <Compile Include="Enums\LevelAcces.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

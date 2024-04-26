@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Web;
 using WebApplication1.BusinessLogic.Core;
 using WebApplication1.BusinessLogic.Interfaces;
-using WebApplication1.Domain.Entities.Res;
+using WebApplication1.Domain.Entities.Appointment;
 using WebApplication1.Domain.Entities.User;
-using WebApplication1.Domain.Entities.User.Global;
 
 namespace WebApplication1.BusinessLogic
 {
@@ -15,11 +10,24 @@ namespace WebApplication1.BusinessLogic
     {
         public ULoginResp UserLogin(ULoginData data)
         {
-            return UserLoginAction(data);
+            return ULoginAction(data);
         }
-        /* public LevelStatus CheckLevel (string key)
-         {
-             return CheckLevelLogin(key);
-         }*/
+        public URegisterResp UserRegister(URegisterData data)
+        {
+            return URegisterAction(data);
+        }
+        public HttpCookie GenCookie(string loginCredential)
+        {
+            return Cookie(loginCredential);
+        }
+        public UserMinimal GetUserByCookie(string apiCookieValue)
+        {
+            return UserCookie(apiCookieValue);
+        }
+
+        public AppointmentListResp AppointmentList(bool isAdmin)
+        {
+            return AppointmentsListAction(isAdmin);
+        }
     }
 }

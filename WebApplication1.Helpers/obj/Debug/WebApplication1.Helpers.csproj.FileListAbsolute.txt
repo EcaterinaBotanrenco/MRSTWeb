@@ -1,18 +1,55 @@
-D:\Anul-2\TWeb\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll
-D:\Anul-2\TWeb\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.pdb
-D:\Anul-2\TWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.AssemblyReference.cache
-D:\Anul-2\TWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CoreCompileInputs.cache
-D:\Anul-2\TWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.dll
-D:\Anul-2\TWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll.config
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.pdb
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\bin\Debug\EntityFramework.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\bin\Debug\EntityFramework.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.xml
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.AssemblyReference.cache
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CoreCompileInputs.cache
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\obj\Debug\WebAppli.09B0299D.Up2Date
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.dll
-D:\UNIVER\Anul 2 Sem 4\TWeb_curs\Laborator 4 Entity Framework\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.pdb
+D:/Anul-2/TWeb/WebApplication1.Helpers/bin/Debug/WebApplication1.Helpers.dll
+D:/Anul-2/TWeb/WebApplication1.Helpers/bin/Debug/WebApplication1.Helpers.pdb
+D:/Anul-2/TWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.csproj.AssemblyReference.cache
+D:/Anul-2/TWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+D:/Anul-2/TWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.dll
+D:/Anul-2/TWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/bin/Debug/WebApplication1.Helpers.dll.config
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/bin/Debug/WebApplication1.Helpers.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/bin/Debug/WebApplication1.Helpers.pdb
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/bin/Debug/EntityFramework.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/bin/Debug/EntityFramework.SqlServer.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/bin/Debug/EntityFramework.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/bin/Debug/EntityFramework.SqlServer.xml
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.csproj.AssemblyReference.cache
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/obj/Debug/WebAppli.09B0299D.Up2Date
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.dll
+D:/UNIVER/Anul 2 Sem 4/TWeb_curs/Laborator 4 Entity Framework/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.pdb
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/bin/Debug/WebApplication1.Helpers.dll.config
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/bin/Debug/WebApplication1.Helpers.dll
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/bin/Debug/WebApplication1.Helpers.pdb
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/bin/Debug/EntityFramework.dll
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/bin/Debug/EntityFramework.SqlServer.dll
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/bin/Debug/EntityFramework.xml
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/bin/Debug/EntityFramework.SqlServer.xml
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.csproj.AssemblyReference.cache
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.csproj.CopyComplete
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.dll
+/Users/victor/Desktop/mvc/MRSTWeb/WebApplication1.Helpers/obj/Debug/WebApplication1.Helpers.pdb
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll.config
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\WebApplication1.Helpers.pdb
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\EntityFramework.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.Helpers.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.Mvc.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.Razor.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.WebPages.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\EntityFramework.xml
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.Helpers.xml
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.Mvc.xml
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.Razor.xml
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.WebPages.xml
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.AssemblyReference.cache
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.dll
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.pdb
+C:\Users\37368\Desktop\MRSTWeb\WebApplication1.Helpers\obj\Debug\WebApplication1.Helpers.csproj.CopyComplete

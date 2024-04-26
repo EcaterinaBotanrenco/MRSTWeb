@@ -1,73 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\",
+  "WorkspaceRootPath": "C:\\Users\\37368\\Desktop\\MRSTWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D41FE9A-2E3C-4FC1-B671-4ED4882A71F5}|WebApplication1.Domain\\WebApplication1.Domain.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\webapplication1.domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D41FE9A-2E3C-4FC1-B671-4ED4882A71F5}|WebApplication1.Domain\\WebApplication1.Domain.csproj|solutionrelative:webapplication1.domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\webapplication1.businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|c:\\users\\37368\\desktop\\mrstweb\\webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\univer\\anul 2 sem 4\\tweb_curs\\laborator 4 entity framework\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{471EF36B-C293-4EB1-A033-BCC25F60E91F}|WebApplication1.Helpers\\WebApplication1.Helpers.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\webapplication1.helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{471EF36B-C293-4EB1-A033-BCC25F60E91F}|WebApplication1.Helpers\\WebApplication1.Helpers.csproj|solutionrelative:webapplication1.helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\webapplication1.businesslogic\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\webapplication1.businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D41FE9A-2E3C-4FC1-B671-4ED4882A71F5}|WebApplication1.Domain\\WebApplication1.Domain.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\webapplication1.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D41FE9A-2E3C-4FC1-B671-4ED4882A71F5}|WebApplication1.Domain\\WebApplication1.Domain.csproj|solutionrelative:webapplication1.domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|c:\\users\\37368\\desktop\\mrstweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D41FE9A-2E3C-4FC1-B671-4ED4882A71F5}|WebApplication1.Domain\\WebApplication1.Domain.csproj|D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\webapplication1.domain\\enums\\levelacces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D41FE9A-2E3C-4FC1-B671-4ED4882A71F5}|WebApplication1.Domain\\WebApplication1.Domain.csproj|solutionrelative:webapplication1.domain\\enums\\levelacces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\37368\\Downloads\\eUseControl (23.03)\\eUseControl\\eUseControl.Domain\\Entities\\User\\UDbTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -77,220 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\_Layout.cshtml",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\_Layout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-18T16:41:19.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Footer.cshtml",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Shared\\_Footer.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Shared\\_Footer.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Footer.cshtml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T00:36:43.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Header.cshtml",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Header.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAACkAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-21T00:30:10.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "about.cshtml",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Home\\about.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\about.cshtml",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Home\\about.cshtml",
-              "RelativeToolTip": "Views\\Home\\about.cshtml",
-              "ViewState": "AQIAAHgAAAAAAAAAAAAAAAIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T09:56:33.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-17T09:10:19.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T11:48:59.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserApi.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
-              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
-              "RelativeToolTip": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAgwAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T11:00:18.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UserContext.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.BusinessLogic\\DBModel\\UserContext.cs",
-              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\DBModel\\UserContext.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.BusinessLogic\\DBModel\\UserContext.cs",
-              "RelativeToolTip": "WebApplication1.BusinessLogic\\DBModel\\UserContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T11:52:57.884Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\37368\\Desktop\\MRSTWeb\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\37368\\Desktop\\MRSTWeb\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-26T11:35:16.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UDbTable.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.Domain\\Entities\\User\\UDbTable.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Domain\\Entities\\User\\UDbTable.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.Domain\\Entities\\User\\UDbTable.cs",
-              "RelativeToolTip": "WebApplication1.Domain\\Entities\\User\\UDbTable.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwA8AAAAjAAAA",
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\37368\\Desktop\\MRSTWeb\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "ToolTip": "C:\\Users\\37368\\Desktop\\MRSTWeb\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
+              "ViewState": "AQIAAEMAAAAAZmZmZmYmwFQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T16:48:19.396Z",
+              "WhenOpened": "2024-04-26T11:32:50.306Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-16T11:58:35.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SessionBL.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.BusinessLogic\\SessionBL.cs",
-              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\SessionBL.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.BusinessLogic\\SessionBL.cs",
-              "RelativeToolTip": "WebApplication1.BusinessLogic\\SessionBL.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T10:57:16.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.BusinessLogic\\Interfaces\\IProduct.cs",
-              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Interfaces\\IProduct.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.BusinessLogic\\Interfaces\\IProduct.cs",
-              "RelativeToolTip": "WebApplication1.BusinessLogic\\Interfaces\\IProduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T09:18:10.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginHelper.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.Helpers\\LoginHelper.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Helpers\\LoginHelper.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.Helpers\\LoginHelper.cs",
-              "RelativeToolTip": "WebApplication1.Helpers\\LoginHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-17T10:57:55.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ULoginData.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.Domain\\Entities\\User\\ULoginData.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Domain\\Entities\\User\\ULoginData.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.Domain\\Entities\\User\\ULoginData.cs",
-              "RelativeToolTip": "WebApplication1.Domain\\Entities\\User\\ULoginData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T11:00:33.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-17T09:54:48.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LevelAcces.cs",
-              "DocumentMoniker": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.Domain\\Enums\\LevelAcces.cs",
-              "RelativeDocumentMoniker": "WebApplication1.Domain\\Enums\\LevelAcces.cs",
-              "ToolTip": "D:\\UNIVER\\Anul 2 Sem 4\\TWeb_curs\\Laborator 4 Entity Framework\\WebApplication1.Domain\\Enums\\LevelAcces.cs",
-              "RelativeToolTip": "WebApplication1.Domain\\Enums\\LevelAcces.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T11:55:14.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UDbTable.cs",
-              "DocumentMoniker": "C:\\Users\\37368\\Downloads\\eUseControl (23.03)\\eUseControl\\eUseControl.Domain\\Entities\\User\\UDbTable.cs",
-              "ToolTip": "C:\\Users\\37368\\Downloads\\eUseControl (23.03)\\eUseControl\\eUseControl.Domain\\Entities\\User\\UDbTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T11:53:59.823Z"
             }
           ]
         }

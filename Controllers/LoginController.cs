@@ -1,57 +1,58 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
 using System.Web;
 using System.Web.Mvc;
-using System.Web.UI.WebControls;
-using WebApplication1.Domain.Entities.User;
-using WebApplication1.Domain.Entities.User.Global;
 using WebApplication1.BusinessLogic;
 using WebApplication1.BusinessLogic.Interfaces;
-using System.ServiceModel.Channels;
+using WebApplication1.Domain.Entities.User;
+using WebApplication1.Web.Models;
 
-namespace WebApplication1.Web.Controllers
+namespace WebApplication1.Controllers
 {
     public class LoginController : Controller
     {
-        private readonly WebApplication1.BusinessLogic.Interfaces.ISession _session;
-        public LoginController ()
+        private readonly ISession _session;
+        public LoginController()
         {
             var bl = new BussinesLogic();
-            _session= bl.GetSessionBL();
+            _session = bl.GetSessionBL();
         }
-        // GET : Login
-        public ActionResult Index()
+        public ActionResult Login()
         {
-            return View("~/Views/Auth/Login.cshtml");
-
+            return View("Login");
         }
+        
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult UserLoginAction(ULoginData login)
+        public ActionResult Login(UserLogin login)
         {
-            if (ModelState.IsValid) 
-            { ULoginData data = new ULoginData
+            if (ModelState.IsValid)
+            {
+                ULoginData data = new ULoginData
                 {
-                    Credential= login.Credential ,
-                    Password = login.Password ,
+                    Credential = login.Credential,
+                    Password = login.Password,
                     LoginIp = Request.UserHostAddress,
-                    LoginDateTime= DateTime.Now
+                    LoginDateTime = DateTime.Now
                 };
-                var userLogin=_session.UserLogin(data);
-                if (userLogin.Status) 
+
+                var userLogin = _session.UserLogin(data);
+                if (userLogin.Status)
                 {
+                    HttpCookie cookie = _session.GenCookie(login.Credential);
+                    ControllerContext.HttpContext.Response.Cookies.Add(cookie);
+                    
+                    ModelState.AddModelError("", userLogin.StatusMsg);
+                    
                     return RedirectToAction("Index", "Home");
                 }
                 else
                 {
-                    return RedirectToAction("Appointment", "Home");
-
+                    ModelState.AddModelError("", userLogin.StatusMsg);
+                    return View("Login");
                 }
-
             }
-            return View();
+            
+            return View("Login");
         }
     }
 }

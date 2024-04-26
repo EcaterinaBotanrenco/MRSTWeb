@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>@ViewBag.Title</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="Free HTML Templates" name="keywords">
+    <meta content="Free HTML Templates" name="description">
+
+    <!-- Favicon -->
+    <link href="~/assets/img/favicon.ico" rel="icon">
+
+    <!-- Google Web Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/boxicons/2.1.0/css/boxicons.min.css" integrity="sha512-pVCM5+SN2+qwj36KonHToF2p1oIvoU3bsqxphdOIWMYmgr4ZqD3t5DjKvvetKhXGc/ZG5REYTT6ltKfExEei/Q==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.css" integrity="sha256-NAxhqDvtY0l4xn+YVa6WjAcmd94NNfttjNsDmNatFVc=" crossorigin="anonymous"/>
+
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+
+@Html.Partial("_Header")
+<div>
+    @RenderBody()
+</div>
+
+@Html.Partial("_Footer")
+
+<a href="#" class="btn btn-lg btn-primary back-to-top">
+    <i class="fa fa-angle-double-up"></i>
+</a>
+<!-- JavaScript Libraries -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+
+@Scripts.Render("~/bundles/localScripts")
+
+</body>
+</html>
