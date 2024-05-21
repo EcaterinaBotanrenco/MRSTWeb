@@ -221,4 +221,5 @@ C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.Web.csproj.AssemblyRefe
 C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.Web.csproj.CoreCompileInputs.cache
 C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.dll
 C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.pdb
-C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebApplication1.Web.csproj.CopyComplete
+C:\Users\37368\Desktop\MRSTWeb\bin\WebApplication1.dll.config
+C:\Users\37368\Desktop\MRSTWeb\obj\Debug\WebAppli.776BDAE1.Up2Date
