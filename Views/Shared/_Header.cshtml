@@ -50,7 +50,7 @@
                     @Html.ActionLink("About", "About", "Home", null, new { @class = "nav-item nav-link" })
                     @Html.ActionLink("Services", "Service", "Home", null, new { @class = "nav-item nav-link" })
                     @Html.ActionLink("Pricing", "Price", "Home", null, new { @class = "nav-item nav-link" })
-                    @Html.ActionLink("Contacts", "Contacts", "Home", null, new { @class = "nav-item nav-link" })
+                    @Html.ActionLink("Contacts", "Contact", "Home", null, new { @class = "nav-item nav-link" })
                     @if ((string)HttpContext.Current.Session["LoginStatus"] == "login")
                     {
                         @Html.ActionLink(ViewBag.userLevel == URole.Admin ? "Appointments" : "Appointments", ViewBag.userLevel == URole.Admin ? "AdminAppointmentsList" : "AppointmentsList", "Appointment", null, new { @class = "nav-item nav-link" })
