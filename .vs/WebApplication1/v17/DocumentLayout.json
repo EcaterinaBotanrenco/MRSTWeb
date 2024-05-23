@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\37368\\Desktop\\MRSTWeb\\",
+  "WorkspaceRootPath": "D:\\CateaFolders\\Desktop\\MRSTWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|c:\\users\\37368\\desktop\\mrstweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|C:\\Users\\37368\\Desktop\\MRSTWeb\\webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\cateafolders\\desktop\\mrstweb\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\37368\\Desktop\\MRSTWeb\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Users\\37368\\Desktop\\MRSTWeb\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-26T11:35:16.336Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserApi.cs",
-              "DocumentMoniker": "C:\\Users\\37368\\Desktop\\MRSTWeb\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
-              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
-              "ToolTip": "C:\\Users\\37368\\Desktop\\MRSTWeb\\WebApplication1.BusinessLogic\\Core\\UserApi.cs",
-              "RelativeToolTip": "WebApplication1.BusinessLogic\\Core\\UserApi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJoAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T11:32:50.306Z",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T07:43:37.754Z",
               "EditorCaption": ""
             }
           ]

@@ -21,20 +21,14 @@
 
                 </small>
                 <div class="d-inline-flex align-items-center">
-                    <a class="text-primary px-2" href="">
+                    <a class="text-primary px-2" href="https://www.facebook.com/">
                         <i class="fab fa-facebook-f"></i>
                     </a>
-                    <a class="text-primary px-2" href="">
+                    <a class="text-primary px-2" href="https://x.com/?lang=en">
                         <i class="fab fa-twitter"></i>
                     </a>
-                    <a class="text-primary px-2" href="">
-                        <i class="fab fa-linkedin-in"></i>
-                    </a>
-                    <a class="text-primary px-2" href="">
+                    <a class="text-primary px-2" href="https://www.instagram.com/">
                         <i class="fab fa-instagram"></i>
-                    </a>
-                    <a class="text-primary pl-2" href="">
-                        <i class="fab fa-youtube"></i>
                     </a>
                 </div>
             </div>
@@ -52,15 +46,14 @@
             </button>
             <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
                 <div class="navbar-nav m-auto py-0">
-                    @Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-item nav-link active" })
+                    @Html.ActionLink("Home", "Index", "Home", null, new { @class = "nav-item nav-link" })
                     @Html.ActionLink("About", "About", "Home", null, new { @class = "nav-item nav-link" })
                     @Html.ActionLink("Services", "Service", "Home", null, new { @class = "nav-item nav-link" })
                     @Html.ActionLink("Pricing", "Price", "Home", null, new { @class = "nav-item nav-link" })
-                    @Html.ActionLink("Contact", "Contact", "Home", null, new { @class = "nav-item nav-link" })
-                    @Html.ActionLink("Test", "Test", "Home", null, new { @class = "nav-item nav-link" })
+                    @Html.ActionLink("Contacts", "Contacts", "Home", null, new { @class = "nav-item nav-link" })
                     @if ((string)HttpContext.Current.Session["LoginStatus"] == "login")
                     {
-                        @Html.ActionLink(ViewBag.userLevel == URole.Admin ? "Appointments" : "My appointments", ViewBag.userLevel == URole.Admin ? "AdminAppointmentsList" : "AppointmentsList", "Appointment", null, new { @class = "nav-item nav-link" })
+                        @Html.ActionLink(ViewBag.userLevel == URole.Admin ? "Appointments" : "Appointments", ViewBag.userLevel == URole.Admin ? "AdminAppointmentsList" : "AppointmentsList", "Appointment", null, new { @class = "nav-item nav-link" })
                     }
 
                     @if ((string)HttpContext.Current.Session["LoginStatus"] != "login")
@@ -69,7 +62,7 @@
                     }
 
                 </div>
-                <a href="" class="btn btn-primary d-none d-lg-block">Book Now</a>
+                <a href="https://localhost:44308/Login/Login" class="btn btn-primary d-none d-lg-block">Log in</a>
             </div>
         </nav>
     </div>

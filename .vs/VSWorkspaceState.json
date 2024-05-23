@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.idea",
+    "\\App_Start",
+    "\\assets",
+    "\\Views",
+    "\\Views\\Home",
+    "\\WebApplication1.BusinessLogic",
+    "\\WebApplication1.Domain",
+    "\\WebApplication1.Helpers"
   ],
-  "SelectedNode": "\\WebApplication1.sln",
+  "SelectedNode": "\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
