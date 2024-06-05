@@ -4,15 +4,15 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<div class="container-fluid d-none d-lg-block">
+<div style=" padding-left: 800px; padding-right: 800px;" class="container-fluid d-none d-lg-block">
     <div class="container-center">
         <div class="view-header">
             <div class="header-icon">
                 <i class="pe page-header-icon pe-7s-unlock"></i>
             </div>
             <div class="header-title">
-                <h3>Register</h3>
-                <small>Please enter your credentials to register.</small>
+                <h3>Sign Up</h3>
+                <small>Please enter your credentials to Sign Up.</small>
             </div>
         </div>
 
@@ -22,28 +22,28 @@
                 @using (Html.BeginForm("Register", "Register", FormMethod.Post, new { @id = "register-form" }))
                 {
                     @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-                    <div class="form-group">
+                    <div style=" width: 300px; margin: 0;" class="form-group">
                         @Html.LabelFor(model => model.Username, " ", new { @class = "control-label" })
                         @Html.TextBoxFor(model => model.Username, new { @class = "form-control", placeholder = "Username", title = " ", value = " ", name = "username", id = "username" })
                         @Html.ValidationMessageFor(model => model.Username)
                     </div>
-                    <div class="form-group">
+                    <div style=" width: 300px; margin: 0;" class="form-group">
                         @Html.LabelFor(model => model.Email, " ", new { @class = "control-label" })
                         @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "Your Email", title = " ", value = " ", name = "email", id = "email" })
                         @Html.ValidationMessageFor(model => model.Email)
                     </div>
-                    <div class="form-group">
+                    <div style=" width: 300px; margin: 0;" class="form-group">
                         @Html.LabelFor(model => model.Password, " ", new { @class = "control-label" })
                         @Html.TextBoxFor(model => model.Password, new { @class = "form-control", type = "password", title = " ", placeholder = "Password", value = " ", name = "pass", id = "pass" })
                         @Html.ValidationMessageFor(model => model.Password)
                     </div>
-                    <div class="form-group">
+                    <div style=" width: 300px;" class="form-group">
                         @Html.LabelFor(model => model.ConfirmPassword, " ", new { @class = "control-label" })
                         @Html.TextBoxFor(model => model.ConfirmPassword, new { @class = "form-control", type = "password", title = " ", placeholder = "Repeat your password", value = " ", name = "re_pass", id = "re_pass" })
                         @Html.ValidationMessageFor(model => model.ConfirmPassword)
                     </div>
                     <div class="form-group form-button">
-                        <button type="submit" class="btn ">Register</button>
+                        <button style=" background-color: #F9A392; color: white;" type="submit" class="btn ">Sign Up</button>
                     </div>
                 }
             </div>

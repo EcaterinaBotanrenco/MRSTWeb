@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<div class="container-fluid d-none d-lg-block">
+<div style=" padding-left: 800px;" class="container-fluid d-none d-lg-block">
     <div class="container-center">
         <div class="view-header">
             <div class="header-icon">
@@ -12,7 +12,6 @@
             </div>
             <div class="header-title">
                 <h3>Login</h3>
-                <small>Please enter your credentials to login.</small>
             </div>
         </div>
 
@@ -23,28 +22,26 @@
                 {
                     @Html.AntiForgeryToken()
 
-                    <div class="form-group">
+                    <div style=" width: 300px;" class="form-group">
                         @Html.LabelFor(m => m.Credential, new { @class = "control-label" })
                         @Html.TextBoxFor(m => m.Credential, new
                         {
-                            placeholder = "example@gmail.com",
+                            placeholder = "example@mail.com",
                             title = "Please enter your username",
                             @class = "form-control"
                         })
-                        <span class="help-block small">Your unique username to app</span>
                     </div>
-                    <div class="form-group">
+                    <div style=" width: 300px;" class="form-group">
                         @Html.LabelFor(m => m.Password, new { @class = "control-label" })
                         @Html.PasswordFor(m => m.Password, new
                         {
                             @class = "form-control",
-                            placeholder = "******",
+                            placeholder = "password",
                             title = "Please enter your password"
                         })
-                        <span class="help-block small">Your strong password</span>
                     </div>
                     <div>
-                        <button type="submit" class="btn ">Login</button>
+                        <button style=" background-color: #F9A392; color: white;" type="submit" class="btn ">Login</button>
                     </div>
                 }
                 <a href="@Url.Action("Register", "Register")" class="small">Create an account</a>
