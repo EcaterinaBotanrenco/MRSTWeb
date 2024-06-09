@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\CateaFolders\\Desktop\\MRSTWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\CateaFolders\\Desktop\\MRSTWeb\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\CateaFolders\\Desktop\\MRSTWeb\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|d:\\cateafolders\\desktop\\mrstweb\\webapplication1.businesslogic\\core\\appointmentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C53A09A-39EB-4914-A837-DB87307C6E3C}|WebApplication1.BusinessLogic\\WebApplication1.BusinessLogic.csproj|solutionrelative:webapplication1.businesslogic\\core\\appointmentapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\cateafolders\\desktop\\mrstweb\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\cateafolders\\desktop\\mrstweb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|D:\\CateaFolders\\Desktop\\MRSTWeb\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\cateafolders\\desktop\\mrstweb\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|d:\\cateafolders\\desktop\\mrstweb\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{18108267-544F-4A78-9710-9351CE26F7C8}|WebApplication1.Web.csproj|solutionrelative:views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,50 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "AppointmentApi.cs",
+              "DocumentMoniker": "D:\\CateaFolders\\Desktop\\MRSTWeb\\WebApplication1.BusinessLogic\\Core\\AppointmentApi.cs",
+              "RelativeDocumentMoniker": "WebApplication1.BusinessLogic\\Core\\AppointmentApi.cs",
+              "ToolTip": "D:\\CateaFolders\\Desktop\\MRSTWeb\\WebApplication1.BusinessLogic\\Core\\AppointmentApi.cs",
+              "RelativeToolTip": "WebApplication1.BusinessLogic\\Core\\AppointmentApi.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:20:19.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Header.cshtml",
               "DocumentMoniker": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Header.cshtml",
               "ToolTip": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Views\\Shared\\_Header.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Header.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-05T17:52:29.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Views\\Register\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Register\\Register.cshtml",
               "ToolTip": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Views\\Register\\Register.cshtml",
               "RelativeToolTip": "Views\\Register\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-05T17:52:27.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Login\\Login.cshtml",
               "ToolTip": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Views\\Login\\Login.cshtml",
               "RelativeToolTip": "Views\\Login\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-05T17:52:24.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\CateaFolders\\Desktop\\MRSTWeb\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
